@@ -1,1 +1,2 @@
-this is Feature 4 
+this is Feature 4
+add new line 
